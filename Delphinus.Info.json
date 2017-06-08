@@ -1,0 +1,9 @@
+{
+  "id": "{4D214BE0-2ECB-4717-B25D-792C22FB095C}",
+  "name": "TRegExpr",
+  "platforms": "Win32;Win64",
+  "package_compiler_min": 32,
+  "package_compiler_max": 32,
+  "compiler_min": 32,
+  "compiler_max": 32
+}

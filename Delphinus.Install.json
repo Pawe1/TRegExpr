@@ -1,0 +1,25 @@
+{
+  "browsing_pathes": [{
+    "pathes": "src",
+    "platforms": "Win32;Win64"
+  }],
+  "source_folders": [{
+    "folder": "."
+  },
+  {
+    "folder": "examples",
+    "recursive": true
+  },
+  {
+    "folder": "Packages",
+    "recursive": true
+  },
+  {
+    "folder": "src",
+    "recursive": true
+  }],
+  "projects": [{
+    "project": "Packages\\Delphi 10.2\\RegExpr.dproj",
+    "compiler": 32
+  }]
+}
